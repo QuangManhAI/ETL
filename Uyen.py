@@ -4,3 +4,4 @@ a = int(a)
 b = int(b)
 c = a + b 
 print(f'Gia tri cua tong la: {c} , {a}, {b}')
+print('Uyen va Manh')
